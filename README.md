@@ -27,13 +27,10 @@ https://www.youtube.com/watch?v=UwbuW7oK8rk
 https://www.youtube.com/watch?v=qxXRKVompI8
 
 ### 1.3. Real-world/Business objectives and constraints.
-No low-latency requirement.
-
-Interpretability is important.
-
-Errors can be very costly.
-
-Probability of a data-point belonging to each class is needed.
+- No low-latency requirement.
+- Interpretability is important.
+- Errors can be very costly.
+- Probability of a data-point belonging to each class is needed.
 
 ## 2. Machine Learning Problem Formulation
 ### 2.1. Data
